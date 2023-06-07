@@ -19,5 +19,5 @@ pacman-bintrans-common = { version = "0.3", path = "../pacman-bintrans-common" }
 structopt = "0.3.22"
 tar = "0.4.37"
 tempfile = "3.2.0"
-tokio = { version = "1.10.0", features = ["process", "macros", "rt-multi-thread"] }
+tokio = { version = "1.20.4", features = ["process", "macros", "rt-multi-thread"] }
 url = "2.2.2"
